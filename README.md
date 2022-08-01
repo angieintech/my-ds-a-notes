@@ -7,6 +7,6 @@
 <li>Sorting</li>
 <li>Recursion</li>
 <li>Stacks</li>
-<li><Queues</li>
+<li>Queues</li>
 <li>Trie</li>
 </ol>
