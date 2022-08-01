@@ -2,5 +2,6 @@
 
 <img src="#" alt="Python and JS Array Samples">
 
-<p>An array is a group of related data elements saved in neighboring memory locations.</p>
+<p>An array is a group of related data elements saved in neighboring memory locations. 
+This standard data structure contains every element of data that can be entered as soon as possible by just using its index number. </p>
 
