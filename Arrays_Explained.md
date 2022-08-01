@@ -30,7 +30,7 @@ This standard data structure contains every data element that can be entered as 
 
 <p>
     class ArraySoln: # step 1
-        def answers(self, nums): #step 2
+       def answers(self, nums): #step 2
          return [sum(nums[:k + 1]) for i in range (len(nums))] # step 3
 </p>
 
