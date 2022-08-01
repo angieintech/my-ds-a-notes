@@ -1,6 +1,6 @@
 # Angie's DS & A Notes
 
-<h2>Topics covered in my lessons learned</h2>
+<h2>Topics covered in my lessons learned:</h2>
 <ol>
 <li>Arrays</li>
 <li>Big O Notation</li>
