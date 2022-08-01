@@ -28,11 +28,6 @@ This standard data structure contains every data element that can be entered as 
 
 <h3>One-liner solution: return statement with for in range loop</h3>
 
-<code>
-    
-  class ArraySoln: # step 1
-        def answers(self, nums): # step 2
-          return [sum(nums[:k + 1]) for i in range (len(nums))] # step 3
-</code>
+<img src="" alt="pythonList"/>
 
 <p>This one-liner solution will save more space and will be faster to run. It will do the same process. Instead of manually putting the beginning element, 1, in the for loop, we can use:k + 1 and have it add one each time but goes through the range of the length of numbers. </p>
