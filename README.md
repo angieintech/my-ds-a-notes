@@ -1,4 +1,4 @@
-# Angie's DS & A Notes
+# Angie's DS & A Notes 📝✨ 
 
 <h2>Topics covered in my lessons learned:</h2>
 <ol>
