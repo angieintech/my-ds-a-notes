@@ -17,7 +17,7 @@ This standard data structure contains every data element that can be entered as 
 
     class ArraySoln: # step 1
         def answers(self, nums): # step 2
-            for k in range(1, len(nums)): # step 3
+            for k in range(1,len(nums)): # step 3
                 nums[k] += nums[k - 1] # step 4
             return nums # last step
 </p>
