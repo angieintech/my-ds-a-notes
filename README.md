@@ -9,5 +9,5 @@
 - [Recursion]()
 - [Stacks]()
 - [Queues]()
-- [Trie]()
+- [Trees]()
 
