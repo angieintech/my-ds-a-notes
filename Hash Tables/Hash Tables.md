@@ -8,4 +8,4 @@
    
 <h3>What is a hash function? </h3>
 
-<p>It is a function that creates a value of a constant length, and this is for every received input.</p>
+<p>It is a function that creates a value of a constant length for every input. A fun way to analyze hash functions is to see how they are used in cyber security. MD5 hash function generators are common. If a user types an "apple" in the MD5 hash generator, the output will be 1f3870be274f6c49b3e31a0c672895. The hash function's input, apple will always have the same ouput. This is true as long as apple is apple and not "apples". </p>
